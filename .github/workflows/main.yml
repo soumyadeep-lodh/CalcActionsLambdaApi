@@ -3,7 +3,7 @@ name: Deploy Python Lambda And Api Gateway
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
